@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu pervfil 🚛
 
-<!--
-**Daniel-santos18/Daniel-santos18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel Lemes  dos Santos
 
-Here are some ideas to get you started:
+- Sou professor da turma
+- Minha formaçao é matematica
+- Estou cursando desenvolvimento de sistema pela [universidade Uninter] (http://www.uninter.com.br)
+- Estou estudando [alura} (http://www.alura.com.br)
+- Utilizo esse espaço para compartilhar meus trabalhos
+  
+  ###Meu contato eletronico  📧
+  
+  danielsantoslemes@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](  https://media.tenor.com/sPjjLw8ZxyYAAAAM/obrigado-obrigada.gif )
